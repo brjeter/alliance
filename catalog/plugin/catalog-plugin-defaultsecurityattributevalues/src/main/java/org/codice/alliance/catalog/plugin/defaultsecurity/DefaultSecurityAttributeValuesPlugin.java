@@ -196,6 +196,7 @@ public class DefaultSecurityAttributeValuesPlugin implements PreIngestPlugin {
         return new CreateRequestImpl(updatedMetacards,
                 createRequest.getProperties(),
                 createRequest.getStoreIds());
+//        return createRequest;
     }
 
     @Override
