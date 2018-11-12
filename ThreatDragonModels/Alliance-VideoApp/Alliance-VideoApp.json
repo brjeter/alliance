@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "Alliance-VideoApp"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Video App Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
