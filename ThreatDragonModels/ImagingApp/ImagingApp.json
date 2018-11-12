@@ -1,7 +1,7 @@
 {
   "summary": {
     "title": "ImagingApp",
-    "description": "INCOMPLETE: The below note was on the existing threat model, but is incorrect. This threat model needs to be fleshed out more fully.\n\nThe Alliance Imaging App exposes no new threat surfaces and operates entirely within the DDF Catalog. Please refer to that threat model."
+    "description": "INCOMPLETE: The following note was on the existing threat model but is incorrect; this threat model needs to be fleshed out more fully:\n\nThe Alliance Imaging App exposes no new threat surfaces and operates entirely within the DDF Catalog. Please refer to that threat model."
   },
   "detail": {
     "contributors": [],
